@@ -1,7 +1,7 @@
 # Waste Classification Using CNN 🗑️📷
 This project focuses on developing an automated waste classification system using advanced Convolutional Neural Network (CNN) techniques to classify waste into six categories: cardboard, glass, metal, paper, plastic, and vegetation.
 
-The dataset for this project consisted of 2,864 images, equally distributed among the six waste types. Each image was pre-processed to ensure consistent size (100x100 pixels) and normalized to optimize the model's learning efficiency. The dataset was split into training and test sets with a 70/30 ratio.
+The dataset for this project consists of 2,864 images, equally distributed among the six waste types. Each image was pre-processed to ensure consistent size (100x100 pixels) and normalized to optimize the model's learning efficiency. The dataset was split into training and test sets with a 70/30 ratio.
 
 We used a CNN model as it is ideal for image classification due to its ability to learn spatial patterns. We experimented with various architectures by adjusting the number of convolutional layers, hidden layers, hidden nodes, pooling layers, dropout rates, and the size of the kernels. The aim was to identify the model that offered the best performance.
 
